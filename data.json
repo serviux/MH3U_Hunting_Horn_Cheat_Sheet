@@ -1,0 +1,3442 @@
+[
+    {
+        "name": "Metal Bagpipe",
+        "attack": 414,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Blue-red-white",
+        "sharpness": "sharpness/Metal_Bagpipe.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 8,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Boost S",
+                "notes": "rbw"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            }
+        ]
+    },
+    {
+        "name": "Metal Bagpipe+",
+        "attack": 460,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Blue-red-white",
+        "sharpness": "sharpness/Metal_Bagpipeplus.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 8,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Boost S",
+                "notes": "rbw"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            }
+        ]
+    },
+    {
+        "name": "Great Bagpipe",
+        "attack": 506,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Blue-red-white",
+        "sharpness": "sharpness/Great_Bagpipe.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 10,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Boost S",
+                "notes": "rbw"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            }
+        ]
+    },
+    {
+        "name": "Heavy Bagpipe",
+        "attack": 690,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Blue-red-white",
+        "sharpness": "sharpness/Heavy_Bagpipe.png",
+        "slots": "0--",
+        "affinity": -10,
+        "defense": 10,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Boost S",
+                "notes": "rbw"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            }
+        ]
+    },
+    {
+        "name": "Heavy Bagpipe+",
+        "attack": 782,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Blue-red-white",
+        "sharpness": "sharpness/Heavy_Bagpipeplus.png",
+        "slots": "0--",
+        "affinity": -10,
+        "defense": 12,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Boost S",
+                "notes": "rbw"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            }
+        ]
+    },
+    {
+        "name": "Fortissimo",
+        "attack": 828,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Blue-red-white",
+        "sharpness": "sharpness/Fortissimo.png",
+        "slots": "0--",
+        "affinity": -5,
+        "defense": 15,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Boost S",
+                "notes": "rbw"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            }
+        ]
+    },
+    {
+        "name": "Rinforzato",
+        "attack": 1012,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Blue-red-purple",
+        "sharpness": "sharpness/Rinforzato.png",
+        "slots": "000",
+        "affinity": -5,
+        "defense": 15,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost L",
+                "notes": "prbp"
+            },
+            {
+                "name": "Health Boost L",
+                "notes": "rbrp"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            }
+        ]
+    },
+    {
+        "name": "Usurper's Growl",
+        "attack": 828,
+        "attribute_type": "LI",
+        "attribute_damage": 200.0,
+        "notes": "Blue-red-white",
+        "sharpness": "sharpness/Usurpers_Growl.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Attactk Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health boost S",
+                "notes": "rbw"
+            }
+        ]
+    },
+    {
+        "name": "Despot's Thunderclap",
+        "attack": 874,
+        "attribute_type": "LI",
+        "attribute_damage": 240.0,
+        "notes": "Blue-red-white",
+        "sharpness": "sharpness/Despots_Thunderclap.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Attactk Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health boost S",
+                "notes": "rbw"
+            }
+        ]
+    },
+    {
+        "name": "Brimstrem Drakesong",
+        "attack": 1058,
+        "attribute_type": "DR",
+        "attribute_damage": 280.0,
+        "notes": "Orange-red-purple",
+        "sharpness": "sharpness/Brimstrem_Drakesong.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Melody Durations Extended",
+                "notes": "oro"
+            },
+            {
+                "name": "Knockback Protection",
+                "notes": "rorp"
+            },
+            {
+                "name": "Attactk Boost L",
+                "notes": "poor"
+            }
+        ]
+    },
+    {
+        "name": "Stygian Tristitia",
+        "attack": 1150,
+        "attribute_type": "DR",
+        "attribute_damage": 320.0,
+        "notes": "Orange-red-purple",
+        "sharpness": "sharpness/Stygian_Tristitia.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Melody Durations Extended",
+                "notes": "oro"
+            },
+            {
+                "name": "Knockback Protection",
+                "notes": "rorp"
+            },
+            {
+                "name": "Attactk Boost L",
+                "notes": "poor"
+            }
+        ]
+    },
+    {
+        "name": "Hidden Harmonic",
+        "attack": 920,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Blue-red-white",
+        "sharpness": "sharpness/Hidden_Harmonic.png",
+        "slots": "0--",
+        "affinity": 20,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Boost S",
+                "notes": "rbw"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            }
+        ]
+    },
+    {
+        "name": "Cry In The Night",
+        "attack": 966,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Blue-red-purple",
+        "sharpness": "sharpness/Cry_In_The_Night.png",
+        "slots": "0--",
+        "affinity": 30,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost L",
+                "notes": "prbp"
+            },
+            {
+                "name": "Health Boost L",
+                "notes": "rbrp"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbr"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            }
+        ]
+    },
+    {
+        "name": "Eclipse Tone",
+        "attack": 1058,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Orange-green-purple",
+        "sharpness": "sharpness/Eclipse_Tone.png",
+        "slots": "0--",
+        "affinity": 40,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Affin. Up+Health Rec S",
+                "notes": "gopo"
+            },
+            {
+                "name": "Hearing Protection L",
+                "notes": "oogp"
+            }
+        ]
+    },
+    {
+        "name": "Qurupeco Horn",
+        "attack": 460,
+        "attribute_type": "FI",
+        "attribute_damage": 200.0,
+        "notes": "Cyan-green-white",
+        "sharpness": "sharpness/Qurupeco_Horn.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec M+Deodorant",
+                "notes": "gwcg"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccgw"
+            }
+        ]
+    },
+    {
+        "name": "Qurupeco Trumpet",
+        "attack": 552,
+        "attribute_type": "FI",
+        "attribute_damage": 300.0,
+        "notes": "Cyan-green-white",
+        "sharpness": "sharpness/Qurupeco_Trumpet.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec M+Deodorant",
+                "notes": "gwcg"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccgw"
+            }
+        ]
+    },
+    {
+        "name": "Magnifico Trumpet",
+        "attack": 920,
+        "attribute_type": "FI",
+        "attribute_damage": 420.0,
+        "notes": "Cyan-green-purple",
+        "sharpness": "sharpness/Magnifico_Trumpet.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Health Recovery L",
+                "notes": "ggpc"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Hearing Protection L",
+                "notes": "ccgp"
+            }
+        ]
+    },
+    {
+        "name": "Imperilude",
+        "attack": 1012,
+        "attribute_type": "FI",
+        "attribute_damage": 480.0,
+        "notes": "Cyan-green-purple",
+        "sharpness": "sharpness/Imperilude.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Health Recovery L",
+                "notes": "ggpc"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Hearing Protection L",
+                "notes": "ccgp"
+            }
+        ]
+    },
+    {
+        "name": "Type 63 Warmonica",
+        "attack": 736,
+        "attribute_type": "WA",
+        "attribute_damage": 180.0,
+        "notes": "Cyan-green-white",
+        "sharpness": "sharpness/Type_63_Warmonica.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 10,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec M+Deodorant",
+                "notes": "gwcg"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccgw"
+            }
+        ]
+    },
+    {
+        "name": "Snarfonix",
+        "attack": 874,
+        "attribute_type": "WA",
+        "attribute_damage": 220.0,
+        "notes": "Cyan-green-white",
+        "sharpness": "sharpness/Snarfonix.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 15,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec M+Deodorant",
+                "notes": "gwcg"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccgw"
+            }
+        ]
+    },
+    {
+        "name": "Soldier's Snarfonica",
+        "attack": 1058,
+        "attribute_type": "WA",
+        "attribute_damage": 300.0,
+        "notes": "Cyan-green-purple",
+        "sharpness": "sharpness/Soldiers_Snarfonica.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 20,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Health Recovery L",
+                "notes": "ggpc"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Hearing Protection L",
+                "notes": "ccgp"
+            }
+        ]
+    },
+    {
+        "name": "Sandpipe",
+        "attack": 552,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Green-red-white",
+        "sharpness": "sharpness/Sandpipe.png",
+        "slots": "0--",
+        "affinity": -30,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggrw"
+            }
+        ]
+    },
+    {
+        "name": "Sandcrier",
+        "attack": 690,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Green-red-white",
+        "sharpness": "sharpness/Sandcrier.png",
+        "slots": "0--",
+        "affinity": -30,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggrw"
+            }
+        ]
+    },
+    {
+        "name": "Sandscreecher",
+        "attack": 920,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Green-red-white",
+        "sharpness": "sharpness/Sandscreecher.png",
+        "slots": "0--",
+        "affinity": -25,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggrw"
+            }
+        ]
+    },
+    {
+        "name": "Sandsinger",
+        "attack": 1104,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Green-red-purple",
+        "sharpness": "sharpness/Sandsinger.png",
+        "slots": "00-",
+        "affinity": -25,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost L",
+                "notes": "prgp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Recovery Speed Up L",
+                "notes": "ggrp"
+            }
+        ]
+    },
+    {
+        "name": "Sandsoother",
+        "attack": 1242,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Green-red-purple",
+        "sharpness": "sharpness/Sandsoother.png",
+        "slots": "00-",
+        "affinity": -25,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost L",
+                "notes": "prgp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Recovery Speed Up L",
+                "notes": "ggrp"
+            }
+        ]
+    },
+    {
+        "name": "Ice Kazoo",
+        "attack": 782,
+        "attribute_type": "IC",
+        "attribute_damage": 100.0,
+        "notes": "Green-red-white",
+        "sharpness": "sharpness/Ice_Kazoo.png",
+        "slots": "0--",
+        "affinity": -10,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed UP S",
+                "notes": "ggrw"
+            }
+        ]
+    },
+    {
+        "name": "Glacial Kazoo",
+        "attack": 874,
+        "attribute_type": "IC",
+        "attribute_damage": 160.0,
+        "notes": "Green-red-white",
+        "sharpness": "sharpness/Glacial_Kazoo.png",
+        "slots": "0--",
+        "affinity": -15,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed UP S",
+                "notes": "ggrw"
+            }
+        ]
+    },
+    {
+        "name": "Frost Groaner",
+        "attack": 1058,
+        "attribute_type": "IC",
+        "attribute_damage": 200.0,
+        "notes": "Yellow-red-purple",
+        "sharpness": "sharpness/Frost_Groaner.png",
+        "slots": "0--",
+        "affinity": -15,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "pry"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "ypr"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "ryp"
+            },
+            {
+                "name": "Fire Resistance Boost L",
+                "notes": "yrp"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Frost General",
+        "attack": 1196,
+        "attribute_type": "IC",
+        "attribute_damage": 240.0,
+        "notes": "Yellow-red-purple",
+        "sharpness": "sharpness/Frost_General.png",
+        "slots": "0--",
+        "affinity": -15,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "pry"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "ypr"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "ryp"
+            },
+            {
+                "name": "Fire Resistance Boost L",
+                "notes": "yrp"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Agnakdion",
+        "attack": 828,
+        "attribute_type": "FI",
+        "attribute_damage": 190.0,
+        "notes": "Yellow-red-white",
+        "sharpness": "sharpness/Agnakdion.png",
+        "slots": "00-",
+        "affinity": 5,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Fire Resistance Boost S",
+                "notes": "yrw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yy"
+            }
+        ]
+    },
+    {
+        "name": "Brandoneon",
+        "attack": 920,
+        "attribute_type": "FI",
+        "attribute_damage": 260.0,
+        "notes": "Yellow-red-white",
+        "sharpness": "sharpness/Brandoneon.png",
+        "slots": "00-",
+        "affinity": 5,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Fire Resistance Boost S",
+                "notes": "yrw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yy"
+            }
+        ]
+    },
+    {
+        "name": "Scaldertina",
+        "attack": 1104,
+        "attribute_type": "FI",
+        "attribute_damage": 350.0,
+        "notes": "Yellow-red-purple",
+        "sharpness": "sharpness/Scaldertina.png",
+        "slots": "000",
+        "affinity": 10,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "pry"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "ypr"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "ryp"
+            },
+            {
+                "name": "Fire Resistance Boost L",
+                "notes": "yrp"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Bone Horn",
+        "attack": 368,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-blue-white",
+        "sharpness": "sharpness/Bone_Horn.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wyb"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Bone Horn+",
+        "attack": 414,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-blue-white",
+        "sharpness": "sharpness/Bone_Hornplus.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wyb"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Hunter's Horn",
+        "attack": 506,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-blue-white",
+        "sharpness": "sharpness/Hunters_Horn.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wyb"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Hunter's Horn+",
+        "attack": 644,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-blue-white",
+        "sharpness": "sharpness/Hunters_Hornplus.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wyb"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Swell Shell",
+        "attack": 690,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-blue-white",
+        "sharpness": "sharpness/Swell_Shell.png",
+        "slots": "00-",
+        "affinity": 5,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wyb"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vertex Shell",
+        "attack": 782,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-blue-white",
+        "sharpness": "sharpness/Vertex_Shell.png",
+        "slots": "00-",
+        "affinity": 5,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wyb"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Turban Shell",
+        "attack": 1012,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-blue-purple",
+        "sharpness": "sharpness/Turban_Shell.png",
+        "slots": "000",
+        "affinity": 10,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Negate Stamina Use L",
+                "notes": "pyb"
+            },
+            {
+                "name": "All Wind Pressure Negated",
+                "notes": "bbyp"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybp"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Zurogong Primo",
+        "attack": 552,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-red-white",
+        "sharpness": "sharpness/Zurogong_Primo.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Fire Resistance Boost S",
+                "notes": "yrw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Zurogong Secundo",
+        "attack": 598,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-red-white",
+        "sharpness": "sharpness/Zurogong_Secundo.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Fire Resistance Boost S",
+                "notes": "yrw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Zurogong Secundo",
+        "attack": 874,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Yellow-red-white",
+        "sharpness": "sharpness/Zurogong_Secundo.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Fire Resistance Boost S",
+                "notes": "yrw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Baguiro",
+        "attack": 644,
+        "attribute_type": "IC",
+        "attribute_damage": 150.0,
+        "notes": "Cyan-red-white",
+        "sharpness": "sharpness/Baguiro.png",
+        "slots": "---",
+        "affinity": 10,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Cold Cancel",
+                "notes": "crc"
+            },
+            {
+                "name": "Heat Cancel",
+                "notes": "rrc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccrw"
+            }
+        ]
+    },
+    {
+        "name": "Algiguiro",
+        "attack": 828,
+        "attribute_type": "IC",
+        "attribute_damage": 220.0,
+        "notes": "Cyan-red-white",
+        "sharpness": "sharpness/Algiguiro.png",
+        "slots": "---",
+        "affinity": 10,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Cold Cancel",
+                "notes": "crc"
+            },
+            {
+                "name": "Heat Cancel",
+                "notes": "rrc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccrw"
+            }
+        ]
+    },
+    {
+        "name": "Frigiguiro",
+        "attack": 1058,
+        "attribute_type": "IC",
+        "attribute_damage": 340.0,
+        "notes": "Cyan-red-purple",
+        "sharpness": "sharpness/Frigiguiro.png",
+        "slots": "---",
+        "affinity": 15,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost L",
+                "notes": "prcp"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Cold Cancel",
+                "notes": "crc"
+            },
+            {
+                "name": "Heat Cancel",
+                "notes": "rrc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccrp"
+            }
+        ]
+    },
+    {
+        "name": "Brazengaita",
+        "attack": 690,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Cyan-red-white",
+        "sharpness": "sharpness/Brazengaita.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 15,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Cold Cancel",
+                "notes": "crc"
+            },
+            {
+                "name": "Heat Cancel",
+                "notes": "rrc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccrw"
+            }
+        ]
+    },
+    {
+        "name": "Gigas Gaita",
+        "attack": 874,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Cyan-red-white",
+        "sharpness": "sharpness/Gigas_Gaita.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 20,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Cold Cancel",
+                "notes": "crc"
+            },
+            {
+                "name": "Heat Cancel",
+                "notes": "rrc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccrw"
+            }
+        ]
+    },
+    {
+        "name": "Archgigas Gaita",
+        "attack": 1196,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Cyan-red-white",
+        "sharpness": "sharpness/Archgigas_Gaita.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 25,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost L",
+                "notes": "prcp"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Cold Cancel",
+                "notes": "crc"
+            },
+            {
+                "name": "Heat Cancel",
+                "notes": "rrc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccrp"
+            }
+        ]
+    },
+    {
+        "name": "Droth Drone",
+        "attack": 506,
+        "attribute_type": "WA",
+        "attribute_damage": 120.0,
+        "notes": "Green-blue-white",
+        "sharpness": "sharpness/Droth_Drone.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wgb"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbg"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec S + Antidote",
+                "notes": "gbwb"
+            }
+        ]
+    },
+    {
+        "name": "Droth Drone",
+        "attack": 644,
+        "attribute_type": "WA",
+        "attribute_damage": 150.0,
+        "notes": "Green-blue-white",
+        "sharpness": "sharpness/Droth_Drone.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wgb"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbg"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec S + Antidote",
+                "notes": "gbwb"
+            }
+        ]
+    },
+    {
+        "name": "Droth Roar",
+        "attack": 920,
+        "attribute_type": "WA",
+        "attribute_damage": 220.0,
+        "notes": "Green-blue-white",
+        "sharpness": "sharpness/Droth_Roar.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wgb"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbg"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec S + Antidote",
+                "notes": "gbwb"
+            }
+        ]
+    },
+    {
+        "name": "Black Coffin",
+        "attack": 506,
+        "attribute_type": "PO",
+        "attribute_damage": 260.0,
+        "notes": "Green-blue-white",
+        "sharpness": "sharpness/Black_Coffin.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wgb"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbg"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec S + Antidote",
+                "notes": "gbwb"
+            }
+        ]
+    },
+    {
+        "name": "Shadow Coffin",
+        "attack": 644,
+        "attribute_type": "PO",
+        "attribute_damage": 320.0,
+        "notes": "Green-blue-white",
+        "sharpness": "sharpness/Shadow_Coffin.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wgb"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbg"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec S + Antidote",
+                "notes": "gbwb"
+            }
+        ]
+    },
+    {
+        "name": "Darkest Coffin",
+        "attack": 1012,
+        "attribute_type": "PO",
+        "attribute_damage": 420.0,
+        "notes": "Green-blue-purple",
+        "sharpness": "sharpness/Darkest_Coffin.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Negate Stamina Use L",
+                "notes": "pgbg"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbg"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Health Rec M + Antidote",
+                "notes": "gbpb"
+            }
+        ]
+    },
+    {
+        "name": "Bloodstopper",
+        "attack": 828,
+        "attribute_type": "PA",
+        "attribute_damage": 200.0,
+        "notes": "Green-blue-white",
+        "sharpness": "sharpness/Bloodstopper.png",
+        "slots": "00-",
+        "affinity": 15,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wgb"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbg"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Health Rec S + Antidote",
+                "notes": "gbwb"
+            }
+        ]
+    },
+    {
+        "name": "Bloodcurtler",
+        "attack": 874,
+        "attribute_type": "PA",
+        "attribute_damage": 240.0,
+        "notes": "Green-blue-purple",
+        "sharpness": "sharpness/Bloodcurtler.png",
+        "slots": "00-",
+        "affinity": 15,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Negate Stamina Use L",
+                "notes": "pgbg"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbg"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Health Rec M + Antidote",
+                "notes": "gbpb"
+            }
+        ]
+    },
+    {
+        "name": "Bloodfreezer",
+        "attack": 966,
+        "attribute_type": "PA",
+        "attribute_damage": 240.0,
+        "notes": "Green-blue-purple",
+        "sharpness": "sharpness/Bloodfreezer.png",
+        "slots": "00-",
+        "affinity": 15,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Negate Stamina Use L",
+                "notes": "pgbg"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbg"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Health Rec M + Antidote",
+                "notes": "gbpb"
+            }
+        ]
+    },
+    {
+        "name": "Valkyrie Chordmaker",
+        "attack": 552,
+        "attribute_type": "FI",
+        "attribute_damage": 150.0,
+        "notes": "Yellow-blue-white",
+        "sharpness": "sharpness/Valkyrie_Chordmaker.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wyb"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Valkyrie Chordmaker+",
+        "attack": 690,
+        "attribute_type": "FI",
+        "attribute_damage": 180.0,
+        "notes": "Yellow-blue-white",
+        "sharpness": "sharpness/Valkyrie_Chordmakerplus.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wyb"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Queen's Chordmaker",
+        "attack": 782,
+        "attribute_type": "FI",
+        "attribute_damage": 210.0,
+        "notes": "Yellow-blue-white",
+        "sharpness": "sharpness/Queens_Chordmaker.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wyb"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Ice Resistance Boost S",
+                "notes": "ybw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Coral Chordmaker",
+        "attack": 1012,
+        "attribute_type": "FI",
+        "attribute_damage": 240.0,
+        "notes": "Yellow-blue-purple",
+        "sharpness": "sharpness/Coral_Chordmaker.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "pyb"
+            },
+            {
+                "name": "All Wind Pressure Negated",
+                "notes": "bbyp"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Ice Resistance Boost L",
+                "notes": "ybp"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Coral Chordmaker+",
+        "attack": 1104,
+        "attribute_type": "FI",
+        "attribute_damage": 244.0,
+        "notes": "Yellow-blue-purple",
+        "sharpness": "sharpness/Coral_Chordmakerplus.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "pyb"
+            },
+            {
+                "name": "All Wind Pressure Negated",
+                "notes": "bbyp"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Ice Resistance Boost L",
+                "notes": "ybp"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Gold Chordmaker",
+        "attack": 1150,
+        "attribute_type": "FI",
+        "attribute_damage": 245.0,
+        "notes": "Orange-cyan-purple",
+        "sharpness": "sharpness/Gold_Chordmaker.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Abnormal Status Attack Boost",
+                "notes": "coop"
+            },
+            {
+                "name": "Abnormal Statuses Negated",
+                "notes": "cpoo"
+            },
+            {
+                "name": "Diving Protection",
+                "notes": "popc"
+            }
+        ]
+    },
+    {
+        "name": "Lunar Chordmaker",
+        "attack": 1196,
+        "attribute_type": "FI",
+        "attribute_damage": 246.0,
+        "notes": "Orange-cyan-purple",
+        "sharpness": "sharpness/Lunar_Chordmaker.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Abnormal Status Attack Boost",
+                "notes": "coop"
+            },
+            {
+                "name": "Abnormal Statuses Negated",
+                "notes": "cpoo"
+            },
+            {
+                "name": "Diving Protection",
+                "notes": "popc"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Nulo ",
+        "attack": 414,
+        "attribute_type": null,
+        "attribute_damage": 247.0,
+        "notes": "Yellow-green-white",
+        "sharpness": "sharpness/Vicello_Nulo_.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Thunder Resistance Boost S",
+                "notes": "ygw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Unu ",
+        "attack": 460,
+        "attribute_type": null,
+        "attribute_damage": 248.0,
+        "notes": "Yellow-green-white",
+        "sharpness": "sharpness/Vicello_Unu_.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Thunder Resistance Boost S",
+                "notes": "ygw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Nulo W",
+        "attack": 552,
+        "attribute_type": "IC",
+        "attribute_damage": 250.0,
+        "notes": "Yellow-green-white",
+        "sharpness": "sharpness/Vicello_Nulo_W.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Thunder Resistance Boost S",
+                "notes": "ygw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Unu W",
+        "attack": 736,
+        "attribute_type": "IC",
+        "attribute_damage": 300.0,
+        "notes": "Yellow-green-white",
+        "sharpness": "sharpness/Vicello_Unu_W.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Thunder Resistance Boost S",
+                "notes": "ygw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Du W",
+        "attack": 920,
+        "attribute_type": "IC",
+        "attribute_damage": 380.0,
+        "notes": "Yellow-green-purple",
+        "sharpness": "sharpness/Vicello_Du_W.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Diving Protection",
+                "notes": "gypy"
+            },
+            {
+                "name": "Thunder Resistance Boost L",
+                "notes": "ygp"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "pgyg"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Nulo Y",
+        "attack": 460,
+        "attribute_type": "LI",
+        "attribute_damage": 300.0,
+        "notes": "Yellow-green-white",
+        "sharpness": "sharpness/Vicello_Nulo_Y.png",
+        "slots": "0--",
+        "affinity": 10,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Thunder Resistance Boost S",
+                "notes": "ygw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Unu Y",
+        "attack": 552,
+        "attribute_type": "LI",
+        "attribute_damage": 460.0,
+        "notes": "Yellow-green-white",
+        "sharpness": "sharpness/Vicello_Unu_Y.png",
+        "slots": "00-",
+        "affinity": 15,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Thunder Resistance Boost S",
+                "notes": "ygw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Du Y",
+        "attack": 966,
+        "attribute_type": "LI",
+        "attribute_damage": 480.0,
+        "notes": "Yellow-green-purple",
+        "sharpness": "sharpness/Vicello_Du_Y.png",
+        "slots": "00-",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Diving Protection",
+                "notes": "gypy"
+            },
+            {
+                "name": "Thunder Resistance Boost L",
+                "notes": "ygp"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "pgyg"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Nulo G",
+        "attack": 414,
+        "attribute_type": "PA",
+        "attribute_damage": 250.0,
+        "notes": "Yellow-green-white",
+        "sharpness": "sharpness/Vicello_Nulo_G.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Thunder Resistance Boost S",
+                "notes": "ygw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Unu G",
+        "attack": 506,
+        "attribute_type": "PA",
+        "attribute_damage": 300.0,
+        "notes": "Yellow-green-white",
+        "sharpness": "sharpness/Vicello_Unu_G.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Thunder Resistance Boost S",
+                "notes": "ygw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Du G",
+        "attack": 690,
+        "attribute_type": "PA",
+        "attribute_damage": 340.0,
+        "notes": "Yellow-green-white",
+        "sharpness": "sharpness/Vicello_Du_G.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Thunder Resistance Boost S",
+                "notes": "ygw"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Vicello Tri G",
+        "attack": 828,
+        "attribute_type": "PA",
+        "attribute_damage": 380.0,
+        "notes": "Yellow-green-purple",
+        "sharpness": "sharpness/Vicello_Tri_G.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Recovery Speed Up S",
+                "notes": "ggy"
+            },
+            {
+                "name": "Diving Protection",
+                "notes": "gypy"
+            },
+            {
+                "name": "Thunder Resistance Boost L",
+                "notes": "ygp"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "pgyg"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Cindervone",
+        "attack": 1012,
+        "attribute_type": "FI",
+        "attribute_damage": 100.0,
+        "notes": "Cyan-blue-white",
+        "sharpness": "sharpness/Cindervone.png",
+        "slots": "0--",
+        "affinity": -25,
+        "defense": 15,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wcb"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbc"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Psychic",
+                "notes": "wbc"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            }
+        ]
+    },
+    {
+        "name": "Scaldrovone",
+        "attack": 1196,
+        "attribute_type": "FI",
+        "attribute_damage": 130.0,
+        "notes": "Cyan-blue-purple",
+        "sharpness": "sharpness/Scaldrovone.png",
+        "slots": "0--",
+        "affinity": -20,
+        "defense": 18,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Negate Stamina Use L",
+                "notes": "pcbc"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbc"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Psychic",
+                "notes": "pbc"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Negate Stun",
+                "notes": "cbp"
+            }
+        ]
+    },
+    {
+        "name": "Meltrovone",
+        "attack": 1288,
+        "attribute_type": "FI",
+        "attribute_damage": 150.0,
+        "notes": "Cyan-blue-purple",
+        "sharpness": "sharpness/Meltrovone.png",
+        "slots": "0--",
+        "affinity": -20,
+        "defense": 20,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Negate Stamina Use L",
+                "notes": "pcbc"
+            },
+            {
+                "name": "Wind Pressure Negated",
+                "notes": "bbc"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Psychic",
+                "notes": "pbc"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Negate Stun",
+                "notes": "cbp"
+            }
+        ]
+    },
+    {
+        "name": "Magia Charm",
+        "attack": 552,
+        "attribute_type": "DR",
+        "attribute_damage": 360.0,
+        "notes": "Yellow-cyan-white",
+        "sharpness": "sharpness/Magia_Charm.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Negate Paralysis",
+                "notes": "cyw"
+            },
+            {
+                "name": "Tremor Resistance",
+                "notes": "ccy"
+            },
+            {
+                "name": "Water Resistance Boost S",
+                "notes": "ycw"
+            },
+            {
+                "name": "Dragon Resistance Boost S",
+                "notes": "wyc"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "ycyc"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Magia Charmbell",
+        "attack": 644,
+        "attribute_type": "DR",
+        "attribute_damage": 560.0,
+        "notes": "Yellow-cyan-white",
+        "sharpness": "sharpness/Magia_Charmbell.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Negate Paralysis",
+                "notes": "cyw"
+            },
+            {
+                "name": "Tremor Resistance",
+                "notes": "ccy"
+            },
+            {
+                "name": "Water Resistance Boost S",
+                "notes": "ycw"
+            },
+            {
+                "name": "Dragon Resistance Boost S",
+                "notes": "wyc"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "ycyc"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Aria Rhota",
+        "attack": 828,
+        "attribute_type": "DR",
+        "attribute_damage": 600.0,
+        "notes": "Yellow-cyan-purple",
+        "sharpness": "sharpness/Aria_Rhota.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Negate Paralysis",
+                "notes": "cyp"
+            },
+            {
+                "name": "Tremor Resistance",
+                "notes": "ccy"
+            },
+            {
+                "name": "Water Resistance Boost S",
+                "notes": "ycp"
+            },
+            {
+                "name": "Dragon Resistance Boost S",
+                "notes": "pyc"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "ycyc"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Worn Horn",
+        "attack": 506,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Cyan-red-purple",
+        "sharpness": "sharpness/Worn_Horn.png",
+        "slots": "---",
+        "affinity": -70,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost L",
+                "notes": "prcp"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Cold Cancel",
+                "notes": "crc"
+            },
+            {
+                "name": "Heat Cancel",
+                "notes": "rrc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccrp"
+            }
+        ]
+    },
+    {
+        "name": "Weathered Horn",
+        "attack": 506,
+        "attribute_type": null,
+        "attribute_damage": null,
+        "notes": "Cyan-red-purple",
+        "sharpness": "sharpness/Weathered_Horn.png",
+        "slots": "---",
+        "affinity": -70,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack Boost L",
+                "notes": "prcp"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Cold Cancel",
+                "notes": "crc"
+            },
+            {
+                "name": "Heat Cancel",
+                "notes": "rrc"
+            },
+            {
+                "name": "Hearing Protection S",
+                "notes": "ccrp"
+            }
+        ]
+    },
+    {
+        "name": "Avenir's Music Box",
+        "attack": 920,
+        "attribute_type": "DR",
+        "attribute_damage": 300.0,
+        "notes": "Orange-green-purple",
+        "sharpness": "sharpness/Avenirs_Music_Box.png",
+        "slots": "000",
+        "affinity": 0,
+        "defense": 10,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recover S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Affin. Up+Health Rec S",
+                "notes": "gopo"
+            },
+            {
+                "name": "Hearing Protection L",
+                "notes": "oogp"
+            }
+        ]
+    },
+    {
+        "name": "Eternal Music Box",
+        "attack": 1058,
+        "attribute_type": "DR",
+        "attribute_damage": 380.0,
+        "notes": "Orange-green-purple",
+        "sharpness": "sharpness/Eternal_Music_Box.png",
+        "slots": "000",
+        "affinity": 0,
+        "defense": 15,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recover S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Affin. Up+Health Rec S",
+                "notes": "gopo"
+            },
+            {
+                "name": "Hearing Protection L",
+                "notes": "oogp"
+            }
+        ]
+    },
+    {
+        "name": "Dios Bell",
+        "attack": 874,
+        "attribute_type": "SLM",
+        "attribute_damage": 250.0,
+        "notes": "Yellow-cyan-white",
+        "sharpness": "sharpness/Dios_Bell.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Negate Paralysis",
+                "notes": "cyw"
+            },
+            {
+                "name": "Tremor Resistance",
+                "notes": "ccy"
+            },
+            {
+                "name": "Water Resistance Boost S",
+                "notes": "ycw"
+            },
+            {
+                "name": "Dragon Resistance Boost S",
+                "notes": "wyc"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "ycyc"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Dios Bell+",
+        "attack": 920,
+        "attribute_type": "SLM",
+        "attribute_damage": 300.0,
+        "notes": "Yellow-cyan-white",
+        "sharpness": "sharpness/Dios_Bellplus.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            },
+            {
+                "name": "Negate Paralysis",
+                "notes": "cyw"
+            },
+            {
+                "name": "Tremor Resistance",
+                "notes": "ccy"
+            },
+            {
+                "name": "Water Resistance Boost S",
+                "notes": "ycw"
+            },
+            {
+                "name": "Dragon Resistance Boost S",
+                "notes": "wyc"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "ycyc"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            }
+        ]
+    },
+    {
+        "name": "Demolition Chime",
+        "attack": 1150,
+        "attribute_type": "SLM",
+        "attribute_damage": 320.0,
+        "notes": "Orange-green-purple",
+        "sharpness": "sharpness/Demolition_Chime.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Affin. Up+Health Rec S",
+                "notes": "gopo"
+            },
+            {
+                "name": "Hearing Protection L",
+                "notes": "oogp"
+            }
+        ]
+    },
+    {
+        "name": "Timbral Demolisher",
+        "attack": 1242,
+        "attribute_type": "SLM",
+        "attribute_damage": 350.0,
+        "notes": "Orange-green-purple",
+        "sharpness": "sharpness/Timbral_Demolisher.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Affin. Up+Health Rec S",
+                "notes": "gopo"
+            },
+            {
+                "name": "Hearing Protection L",
+                "notes": "oogp"
+            }
+        ]
+    },
+    {
+        "name": "Lagia Horn",
+        "attack": 644,
+        "attribute_type": "LI",
+        "attribute_damage": 120.0,
+        "notes": "Cyan-blue-white",
+        "sharpness": "sharpness/Lagia_Horn.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wcb"
+            },
+            {
+                "name": "Wind pressure Negated",
+                "notes": "bbc"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Psychic",
+                "notes": "wbc"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            }
+        ]
+    },
+    {
+        "name": "Lagia Horn+",
+        "attack": 782,
+        "attribute_type": "LI",
+        "attribute_damage": 200.0,
+        "notes": "Cyan-blue-white",
+        "sharpness": "sharpness/Lagia_Hornplus.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wcb"
+            },
+            {
+                "name": "Wind pressure Negated",
+                "notes": "bbc"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Psychic",
+                "notes": "wbc"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            }
+        ]
+    },
+    {
+        "name": "Lagia Thunderpeal",
+        "attack": 874,
+        "attribute_type": "LI",
+        "attribute_damage": 240.0,
+        "notes": "Cyan-blue-white",
+        "sharpness": "sharpness/Lagia_Thunderpeal.png",
+        "slots": "0--",
+        "affinity": 5,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Negate Stamina Use S",
+                "notes": "wcb"
+            },
+            {
+                "name": "Wind pressure Negated",
+                "notes": "bbc"
+            },
+            {
+                "name": "Defense Boost S",
+                "notes": "wbb"
+            },
+            {
+                "name": "Psychic",
+                "notes": "wbc"
+            },
+            {
+                "name": "Snow/Mud Negated",
+                "notes": "ccc"
+            }
+        ]
+    },
+    {
+        "name": "Nether Flute",
+        "attack": 1150,
+        "attribute_type": "LI",
+        "attribute_damage": 280.0,
+        "notes": "Orange-blue-purple",
+        "sharpness": "sharpness/Nether_Flute.png",
+        "slots": "0--",
+        "affinity": 5,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Attack & Defense Boost S",
+                "notes": "obpb"
+            },
+            {
+                "name": "Attack & Defense Boost S",
+                "notes": "pboo"
+            },
+            {
+                "name": "All Wind Pressure Negated",
+                "notes": "bbo"
+            },
+            {
+                "name": "Negate Stamina Use L",
+                "notes": "pobo"
+            }
+        ]
+    },
+    {
+        "name": "Nether Simphony",
+        "attack": 1196,
+        "attribute_type": "LI",
+        "attribute_damage": 320.0,
+        "notes": "Orange-blue-purple",
+        "sharpness": "sharpness/Nether_Simphony.png",
+        "slots": "0--",
+        "affinity": 5,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Defense Boost L",
+                "notes": "pbbp"
+            },
+            {
+                "name": "Attack & Defense Boost S",
+                "notes": "obpb"
+            },
+            {
+                "name": "Attack & Defense Boost S",
+                "notes": "pboo"
+            },
+            {
+                "name": "All Wind Pressure Negated",
+                "notes": "bbo"
+            },
+            {
+                "name": "Negate Stamina Use L",
+                "notes": "pobo"
+            }
+        ]
+    },
+    {
+        "name": "Megiddo Mode",
+        "attack": 920,
+        "attribute_type": "FI",
+        "attribute_damage": 500.0,
+        "notes": "Orange-Yellow-Purple",
+        "sharpness": "sharpness/Megiddo_Mode.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            },
+            {
+                "name": "Blight Resistance Boost",
+                "notes": "yop"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "poyo"
+            },
+            {
+                "name": "Blights Negated",
+                "notes": "oyyo"
+            },
+            {
+                "name": "Hearing S & Windproof",
+                "notes": "pyoy"
+            }
+        ]
+    },
+    {
+        "name": "The Apocalypso",
+        "attack": 966,
+        "attribute_type": "FI",
+        "attribute_damage": 600.0,
+        "notes": "Orange-Yellow-Purple",
+        "sharpness": "sharpness/The_Apocalypso.png",
+        "slots": "---",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Sonic Waves",
+                "notes": "yyy"
+            },
+            {
+                "name": "Blight Resistance Boost",
+                "notes": "yop"
+            },
+            {
+                "name": "Elemental Attack Boost",
+                "notes": "poyo"
+            },
+            {
+                "name": "Blights Negated",
+                "notes": "oyyo"
+            },
+            {
+                "name": "Hearing S & Windproof",
+                "notes": "pyoy"
+            }
+        ]
+    },
+    {
+        "name": "Voltage Verve",
+        "attack": 598,
+        "attribute_type": "LI",
+        "attribute_damage": 500.0,
+        "notes": "Red-green-white",
+        "sharpness": "sharpness/Voltage_Verve.png",
+        "slots": "0--",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "ww"
+            },
+            {
+                "name": "Attack Boost S",
+                "notes": "wrr"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "wgw"
+            },
+            {
+                "name": "Recovery Speed UP S",
+                "notes": "ggrw"
+            }
+        ]
+    },
+    {
+        "name": "High Voltage Verve",
+        "attack": 828,
+        "attribute_type": "LI",
+        "attribute_damage": 640.0,
+        "notes": "Red-green-purple",
+        "sharpness": "sharpness/High_Voltage_Verve.png",
+        "slots": "000",
+        "affinity": 0,
+        "defense": 0,
+        "songs": [
+            {
+                "name": "Self Improvement",
+                "notes": "pp"
+            },
+            {
+                "name": "Attack boost L",
+                "notes": "prgp"
+            },
+            {
+                "name": "Health Recovery S",
+                "notes": "pgp"
+            },
+            {
+                "name": "Recovery Speed Up L",
+                "notes": "ggrp"
+            }
+        ]
+    }
+]
