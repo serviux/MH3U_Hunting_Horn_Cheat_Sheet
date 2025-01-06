@@ -1,0 +1,1 @@
+I wanted quick access information on the hunting horns in MH3U, I gather informtion from several places, and noticed some of the songs were inaccurate. So, I made this cheat sheet for every horn in the game. View at https://serviux.github.io/MH3U_Hunting_Horn_Cheat_Sheet/
